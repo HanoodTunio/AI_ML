@@ -1,0 +1,12 @@
+what is Classification in Machine learning, its types?
+
+Classification in machine learning involves predicting the category or class label of an instance based on past data with known labels. 
+There are several types:
+
+1. Binary Classification: Predicting between two classes (e.g., spam or not spam).
+2. Multi-class Classification: Predicting among multiple classes (e.g., types of fruits).
+3. Multi-label Classification: Assigning multiple labels to instances (e.g., tagging images).
+4. Imbalanced Classification: Handling datasets with unequal class distributions.
+5. Ordinal Classification: Predicting ordered categories (e.g., movie ratings).
+
+Each type has its own characteristics and requires different approaches and algorithms.
